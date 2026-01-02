@@ -1,4 +1,4 @@
-# heartseg-acdc-nnUNet
+# nnUNet-cardiac-MRI-segmentation
 
 ## 🫀 Project Overview
 Production-grade cardiac segmentation using nnUNet v2 on ACDC challenge dataset. Achieved 0.976 Dice score with clinical-grade performance across 200 training cases.
